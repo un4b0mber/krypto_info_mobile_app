@@ -1,4 +1,4 @@
-#🚀 Cryptify 📱
+🚀 Cryptify 📱
 
 Your gateway to the most explosive crypto news & tokens with moonshot potential! 🌕📈
 
