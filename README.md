@@ -35,6 +35,15 @@ api.php
 analiza.py
 analiza_2.py
 coin_market.py
+timer.py
+```
+
+- 🕒 `timer.py` is responsible for periodically executing the other `.py` files to ensure the data is always up to date.
+- 🚨 This script **must be running continuously** in the background.
+- 💡 You can configure your system to **automatically launch `timer.py` on startup** by placing a shortcut to it in the Startup folder on Windows:
+
+```
+Win + R → shell:startup → Paste shortcut to timer.py
 ```
 
 ---
@@ -103,6 +112,10 @@ D:\python files\krypto_app\app\src\main\java\com\example\krypto_app\network\Retr
 
 ## 🎉 That’s it!
 The app will start running on your phone and fetch live data from your local API.
+
+> ⚠️ **Note:** The app will continue working as long as your **ngrok** server is active. If you stop ngrok or turn off XAMPP, data updates will stop.
+> 
+> 🔁 Also make sure `timer.py` is always running to keep the backend data fresh!
 
 > ⚠️ **Note:** The app will continue working as long as your **ngrok** server is active. If you stop ngrok or turn off XAMPP, data updates will stop.
 
