@@ -2,7 +2,7 @@
 
 Your gateway to the most explosive crypto news & tokens with moonshot potential! 🌕📈
 
-CryptoPulse is a sleek mobile app that brings you:
+Cryptify is a sleek mobile app that brings you:
 
 📰 Top trending news from X (formerly Twitter) — stay ahead of the curve
 
