@@ -15,6 +15,7 @@ CryptoPulse is a sleek mobile app that brings you:
 ## 💸 100% Free. Just run it.
 No subscriptions, no hidden fees – just download the app and run the API server locally on your own machine. You're in control 🧠🖥️
 
+
 # 🚀 How to Set Up Cryptify (Backend + App)
 
 Follow these simple steps to get Cryptify running locally on your device! 🛠️📱
