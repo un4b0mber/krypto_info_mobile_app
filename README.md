@@ -38,6 +38,7 @@ coin_market.py
 timer.py
 ```
 
+- 📝 Before running the app, you need to provide your X (Twitter) account login details in the `analiza.py`
 - 🕒 `timer.py` is responsible for periodically executing the other `.py` files to ensure the data is always up to date.
 - 🚨 This script **must be running continuously** in the background.
 - 💡 You can configure your system to **automatically launch `timer.py` on startup** by placing a shortcut to it in the Startup folder on Windows:
