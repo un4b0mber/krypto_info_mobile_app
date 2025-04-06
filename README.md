@@ -117,6 +117,5 @@ The app will start running on your phone and fetch live data from your local API
 > 
 > 🔁 Also make sure `timer.py` is always running to keep the backend data fresh!
 
-> ⚠️ **Note:** The app will continue working as long as your **ngrok** server is active. If you stop ngrok or turn off XAMPP, data updates will stop.
 
 
