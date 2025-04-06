@@ -118,5 +118,14 @@ The app will start running on your phone and fetch live data from your local API
 > 
 > 🔁 Also make sure `timer.py` is always running to keep the backend data fresh!
 
+## 📸 Screenshots
+
+Here are some example images of the app in action:
+
+![🎵 Bot Example 1](app.jpg)
+![🎵 Bot Example 2](app_2.jpg)
+![🎵 Bot Example 3](app_3.jpg)
+![🎵 Bot Example 4](app_4.jpg)
+
 
 
